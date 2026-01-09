@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+dist/
+.env
+*.log
+logs/
+*.png
+*.jpg
+*.txt
+proxy.txt
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tsbuildinfo
